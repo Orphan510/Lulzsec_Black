@@ -10,7 +10,7 @@ sudo apt install python3
 
 sudo apt install git
 
-git clone https://github.com/Orphan510/Lulzsec_Black
+git clone https://github.com/Orphan510/Lulzsec_Black.git
 
 cd Lulzsec_Black
 
@@ -30,7 +30,7 @@ pkg install python3
 
 pkg install git 
 
-git clone https://github.com/Orphan510/Lulzsec_Black
+git clone https://github.com/Orphan510/Lulzsec_Black.git
 
 cd Lulzsec_Black
 
