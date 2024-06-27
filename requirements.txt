@@ -1,0 +1,7 @@
+socket
+threading
+pyfiglet
+colorama
+random
+time
+
